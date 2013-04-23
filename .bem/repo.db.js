@@ -29,8 +29,8 @@ module.exports = {
     },
     'bem-gen-doc' : {
         type     : 'git',
-        url      : 'git://github.com/bem/bem-gen-doc.git',
-        treeish  : 'make'
+        url      : 'git://github.com/tadatuta/bem-gen-doc.git',
+        treeish  : 'eng'
     },
     'bem-controls' : {
         type     : 'git',
