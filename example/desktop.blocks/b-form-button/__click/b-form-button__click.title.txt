@@ -1,1 +1,1 @@
-Элемент ловит клики на кнопке-ссылке
+Catches clicks on button-link

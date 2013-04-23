@@ -1,1 +1,1 @@
-Какое-то описания блока страницы
+page block description goes here

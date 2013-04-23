@@ -16,7 +16,7 @@
                 block: 'b-form-button',
                 mods: { theme: 'grey-s', size: 's' },
                 type: 'submit',
-                content: 'Я.Submit'
+                content: 'Submit'
             }
         }
     }

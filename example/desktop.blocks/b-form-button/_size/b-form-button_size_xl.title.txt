@@ -1,1 +1,1 @@
-Кнопка размером xl
+xl-sized button

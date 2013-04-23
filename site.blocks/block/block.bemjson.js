@@ -50,7 +50,7 @@ BEM.JSON.decl('block', {
         if(!ctx.length)
             return ctx;
 
-        // Для заголовков всегда возвращаем значение c последнего уровня
+        // For titiles always return value from last level
         return ctx.pop();
 
     },

@@ -60,7 +60,7 @@ BEM.JSON.decl('catalogue', {
                content: {
                    elem: 'item',
                    url: root,
-                   content: '← каталог'
+                   content: '← catalogue'
                }
            });
 

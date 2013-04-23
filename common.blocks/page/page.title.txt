@@ -1,1 +1,1 @@
-Базовый шаблон страницы
+Basic page template

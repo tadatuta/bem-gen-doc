@@ -1,1 +1,1 @@
-Кнопка отключена
+The button is disabled

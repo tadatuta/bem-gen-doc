@@ -1,1 +1,1 @@
-Кнопка размером m
+m-sized button

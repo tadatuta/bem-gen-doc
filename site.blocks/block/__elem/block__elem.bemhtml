@@ -6,7 +6,7 @@ block block {
             this._firstElem = this.ctx;
 
             applyCtx([
-                { block: 'headline', mods: { level: 3 }, content: 'Элементы' },
+                { block: 'headline', mods: { level: 3 }, content: 'Elements' },
                 this.ctx
             ]);
         }
@@ -33,7 +33,7 @@ block block {
         this._firstMod = this.ctx;
 
         applyCtx([
-            { block: 'headline', mods: { level: 5 }, content: 'Модификаторы элемента' },
+            { block: 'headline', mods: { level: 5 }, content: 'Modifiers of the element' },
             this.ctx
         ]);
     }
